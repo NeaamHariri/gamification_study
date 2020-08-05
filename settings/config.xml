@@ -15,7 +15,7 @@
    <config version="1.0" htmlParse="false">
 
       <!-- title of the study -->
-      <item id="studyTitle">Name of your study</item>
+      <item id="studyTitle">Name of your study: Academics perspectives</item>
 
       <!-- text-align property(left|right) -->
       <item id="textAlign">left</item>
@@ -75,6 +75,6 @@
       <!-- request mode (post|get|firebase) -->
       <item id="submitUrlMethod">firebase</item>
 
-      <!-- data transmission via email, user must have an e-mail programm like Outlook (leave blank if not required) -->
+      <!-- data transmission via email, user must have an e-mail program like Outlook (leave blank if not required) -->
       <item id="submitMail">yourdomain.com</item>
    </config>
